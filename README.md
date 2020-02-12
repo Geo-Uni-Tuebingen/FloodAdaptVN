@@ -1,6 +1,6 @@
 # FloodAdaptVN
 
-![Logo](https://teamsites-extranet.dlr.de/dfd/FloodAdaptVN/01_Project_Management/Logos/FA_Logo_blue.png)
+![Logo](https://uni-tuebingen.de/fileadmin/_processed_/4/1/csm_FA_Logo_blue_7a17c06ccb.png)
 
 ## Resources
 * [loodAdaptVN homepage](https://floodadapt.eoc.dlr.de/)
