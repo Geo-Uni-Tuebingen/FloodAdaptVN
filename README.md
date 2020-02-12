@@ -7,5 +7,4 @@
 
 ## Maps
 * [Hydro-meteorological stations](https://geo-uni-tuebingen.github.io/FloodAdaptVN_stations/)
-* test sites
-
+* [Selection of test-sites](https://geo-uni-tuebingen.github.io/FloodAdaptVN_testsites/)
