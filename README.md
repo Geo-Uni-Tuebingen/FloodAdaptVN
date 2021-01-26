@@ -6,7 +6,7 @@
 * [FloodAdaptVN homepage](https://floodadapt.eoc.dlr.de/)
 
 ## Maps
-* [Prototype for a web map of project results](https://manun.github.io/FloodVPN_WebMap/Hue.html)
+* [Prototype for a web map of project results](https://geo-uni-tuebingen.github.io/FloodAdaptVN_WebMap/Hue.html)
 * [Hydro-meteorological stations](https://geo-uni-tuebingen.github.io/FloodAdaptVN_stations/)
 * [Selection of test-sites](https://geo-uni-tuebingen.github.io/FloodAdaptVN_testsites/)
 
